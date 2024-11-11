@@ -37,10 +37,10 @@ WEATHER_API_KEY=<your-open-weather-map-api-key>
 3. Run the application using the following command (tested with windows):
 
 - For Unix-based systems (Linux, macOS):
-  `./mvnw spring-boot:run`
+  `./mvn spring-boot:run`
 
 - For Windows:
-  `mvnw spring-boot:run`
+  `mvn spring-boot:run`
 
 4. Application should now run on localhost port 8080
 
